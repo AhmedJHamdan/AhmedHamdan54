@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Ahmed Hamdan</h2>
 
 ###
 <div align="center">
