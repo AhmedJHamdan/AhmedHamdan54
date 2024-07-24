@@ -1,8 +1,6 @@
 
 ###
-<div align="center">
-  <img height="200" src="https://scontent-bcn1-1.xx.fbcdn.net/v/t1.6435-9/48423707_1796519883793703_5553247037027254272_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=3pnknR4i4wsAX_0Zwha&_nc_ht=scontent-bcn1-1.xx&oh=00_AfCNEzJZX9lq1yKjsQ1X5nFoHXp-hxODMvfgatKiHdgs-A&oe=63DBD271"  />
-</div>
+
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UClTPlSkVFClXRLECdq7iH6w" target="_blank">
@@ -32,31 +30,13 @@
 
 ###
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&username=ahmedhamdan54" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&username=ahmedhamdan54" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@AhmedJAHamdan&theme=gruvbox_light&border=false" alt="Layout with last medium posts"  />
-</div>
 
-###
-
-###
-<div align="center">
-
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=ahmedjhamdan&theme=transparent&icon=code&time=true&response=false&border=false+"/></a>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ahmedhamdan54/count.svg?"  />
